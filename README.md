@@ -1,5 +1,5 @@
 # BearingFaultMFPT-repo
-Notebook file for detecting Bearing Faults using MFPT dataset
+Notebook for detecting Bearing Faults using the Vibration data from the MFPT dataset
 https://www.mfpt.org/fault-data-sets/
 
 #mfpt
