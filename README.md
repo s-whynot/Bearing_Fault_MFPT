@@ -7,4 +7,4 @@ All codes done in Python using Tensorflow library and the Keras API. A case of l
 Basic code structure is done following the beautiful article https://blog.codecentric.de/en/2019/03/convolutional-neural-networks-damage-detection/
 
 
-#mfpt #keras #tensorflow #bearingfault
+#mfpt #keras #tensorflow #bearingfault #deeplearning #cnn
